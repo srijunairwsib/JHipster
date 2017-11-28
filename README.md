@@ -1,4 +1,6 @@
 # myApp
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/srijunairwsib/JHipster.svg)](https://greenkeeper.io/)
 This application was generated using JHipster 4.10.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.2](http://www.jhipster.tech/documentation-archive/v4.10.2).
 
 ## Development
